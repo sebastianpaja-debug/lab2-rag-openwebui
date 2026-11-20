@@ -1,0 +1,11 @@
+POLÍTICA INTERNA DE BENEFICIOS Y SEGURIDAD - INNOVATECH COLOMBIA 2027
+Documento Confidencial - Versión 4.2
+
+1. AUXILIO DE CONECTIVIDAD Y TELETRABAJO:
+A partir de enero de 2027, todos los colaboradores bajo la modalidad híbrida recibirán un auxilio mensual de conectividad neto de $245.000 COP, independiente de su salario básico. El código interno para solicitar este reembolso en el portal financiero es #INV-CON-2027.
+
+2. POLÍTICA DE VACACIONES ANTICIPADAS:
+Los empleados con más de 6 meses y menos de 1 año de vinculación continua podrán solicitar hasta un máximo de 7 días hábiles de vacaciones anticipadas, previa aprobación del líder de proyecto y del departamento de Recursos Humanos (gestionado por la directora Laura Martínez).
+
+3. PROTOCOLO DE INCIDENTES DE CIBERSEGURIDAD:
+Cualquier fuga de datos o acceso no autorizado detectado en los servidores locales o en la nube (AWS/Vercel) debe ser reportado en un plazo inferior a 2 horas al canal de emergencia interno de Slack: #sec-incidentes-urgente o llamando a la extensión interna 809. El cifrado obligatorio para bases de datos sensibles es AES-256 con rotación trimestral obligatoria de llaves criptográficas.
